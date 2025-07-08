@@ -22,4 +22,10 @@ One of the initial challenges I faced was ensuring accurate tokenization, especi
 
 Another issue was handling special characters and ensuring the program didn’t misclassify them. I used conditional checks and character classification functions (like isalpha() and isdigit()) to validate the structure of identifiers and ignore irrelevant characters like whitespaces or newlines.
 
+*INPUT FILR* :
+
+<img width="1339" height="572" alt="Image" src="https://github.com/user-attachments/assets/b00493bb-a4e7-4d83-bad7-fad5034c67b1" />
+
 *OUTPUT* :
+
+<img width="241" height="265" alt="Image" src="https://github.com/user-attachments/assets/ab971f90-c840-4d69-a6ab-f6ff8792f218" />
