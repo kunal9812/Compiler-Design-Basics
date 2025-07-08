@@ -24,8 +24,8 @@ Another issue was handling special characters and ensuring the program didn’t 
 
 *INPUT FILR* :
 
-<img width="1339" height="572" alt="Image" src="https://github.com/user-attachments/assets/b00493bb-a4e7-4d83-bad7-fad5034c67b1" />
+<img width="241" height="265" alt="Image" src="https://github.com/user-attachments/assets/ab971f90-c840-4d69-a6ab-f6ff8792f218" />
 
 *OUTPUT* :
 
-<img width="241" height="265" alt="Image" src="https://github.com/user-attachments/assets/ab971f90-c840-4d69-a6ab-f6ff8792f218" />
+<img width="1339" height="572" alt="Image" src="https://github.com/user-attachments/assets/b00493bb-a4e7-4d83-bad7-fad5034c67b1" />
